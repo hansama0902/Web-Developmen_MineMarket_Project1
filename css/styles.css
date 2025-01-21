@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #343a40;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    position: relative; 
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.navbar-brand, .nav-link {
+    color: #fff !important;
+}
+.hero-section {
+    background-image: url("../pictures/MainPage.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+.product-card img {
+    height: 200px;
+    object-fit: cover;
+}
+.footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
