@@ -4,6 +4,7 @@ body {
 body, html {
     margin: 0;
     padding: 0;
+    box-sizing: border-box; 
 }
 
 .navbar {
@@ -17,9 +18,12 @@ body, html {
     width: 100%;
 }
 .navbar-brand, .nav-link {
-    color: #fff !important;
+    color: #fff; 
+    text-decoration: none; 
 }
 .hero-section {
+    margin: 0;
+    padding: 0;
     background-image: url("../pictures/MainPage.jpg");
     background-repeat: no-repeat;
     background-position: center center;
@@ -33,7 +37,21 @@ body, html {
 }
 .product-card img {
     height: 200px;
-    object-fit: cover;
+    width: 100%; 
+    object-fit: cover; 
+    border-radius: 8px; 
+}
+
+.product-card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+    border: 1px solid #ddd; 
+    border-radius: 8px; 
+    padding: 1rem; 
+    transition: transform 0.2s ease; 
+}
+
+.product-card:hover {
+    transform: scale(1.05); 
 }
 .footer {
     background-color: #343a40;
