@@ -44,3 +44,27 @@ Web-Developmen_MineMarket_Project1/
 ├── index.html
 ├── package.json
 ├── README.md
+# 1. Clone the Repository
+git clone https://github.com/hansama0902/Web-Developmen_MineMarket_Project1.git
+
+# 2. Navigate to the Project Folder
+cd Web-Developmen_MineMarket_Project1
+
+# 3. Install Dependencies (if applicable)
+npm install
+
+# 4. Run the Project Locally
+# Option 1: Use `http-server` (Node.js-based)
+npm install -g http-server
+http-server .
+
+# Open the provided URL (e.g., http://127.0.0.1:8080/) in your browser.
+
+# Option 2: Use Live Server (VS Code Extension)
+# 1. Install the "Live Server" extension in VS Code.
+# 2. Right-click `index.html` in the file explorer.
+# 3. Select "Open with Live Server".
+
+# 5. View Hosted Project
+# Visit the project page at:
+# https://hansama0902.github.io/Web-Developmen_MineMarket_Project1/index.html
