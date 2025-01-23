@@ -1,54 +1,53 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f9f9f9;
-  }
-  .navbar {
-    background-color: #343a40;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    position: relative; 
-    top: 0;
-    left: 0;
-    width: 100%;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
 }
-.navbar-brand, .nav-link {
-    color: #fff !important;
+.navbar {
+  background-color: #343a40;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
-  .status {
-    background-color: #6c757d;
-    color: white;
-    padding: 5px 10px;
-    border-radius: 5px;
-    display: inline-block;
-    font-weight: bold;
-  }
-  
-  .price span {
-    font-weight: bold;
-  }
-  
-  .coupon {
-    color: #0d6efd;
-  }
-  
-  .quantity input {
-    width: 60px;
-    text-align: center;
-  }
+.navbar-brand,
+.nav-link {
+  color: #fff !important;
+}
+.status {
+  background-color: #6c757d;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: inline-block;
+  font-weight: bold;
+}
+
+.price span {
+  font-weight: bold;
+}
+
+.coupon {
+  color: #0d6efd;
+}
+
+.quantity input {
+  width: 60px;
+  text-align: center;
+}
 input[type="number"]::-webkit-inner-spin-button,
 input[type="number"]::-webkit-outer-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
-  .footer {
-    background-color: #343a40;
-    color: white;
-    text-align: center;
-    padding: 1rem 0;
-    margin-top: 2rem;
+.footer {
+  background-color: #343a40;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+  margin-top: 2rem;
 }
-
-  

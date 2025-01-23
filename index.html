@@ -1,111 +1,154 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="author" content="Shuhan Dong">
-    <meta name="description" content="A simulation webpage for selling mining machines. Discover efficient and powerful cryptocurrency mining equipment tailored to your needs.">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Shuhan Dong" />
+    <meta
+      name="description"
+      content="A simulation webpage for selling mining machines. Discover efficient and powerful cryptocurrency mining equipment tailored to your needs."
+    />
     <title>Miner Store - Cryptocurrency Mining Machines</title>
-    <link rel="icon" href="pictures/favicon.png" type="image/x-icon">
+    <link rel="icon" href="pictures/favicon.png" type="image/x-icon" />
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/styles.css">
-</head>
-<body>
-
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+  </head>
+  <body>
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark">
-        <div class="container">
-            <a class="navbar-brand" href="#">Miner Store</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#products">Products</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
-                </ul>
-            </div>
+      <div class="container">
+        <a class="navbar-brand" href="#">Miner Store</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ms-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#products">Products</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contact">Contact</a>
+            </li>
+          </ul>
         </div>
+      </div>
     </nav>
 
     <!-- Hero Section -->
-    <div class="hero-section" id="hero-section">
-    </div>  
+    <div class="hero-section" id="hero-section"></div>
     <!-- About Section -->
     <section id="about" class="py-5">
-        <div class="container">
-            <h1 class="text-center mb-4">About Our Mining Machines</h1>
-            <p class="text-center">We offer the latest and most powerful mining machines to help you stay ahead in the cryptocurrency mining industry. Our machines are designed for efficiency, reliability, and performance.</p>
-        </div>
+      <div class="container">
+        <h1 class="text-center mb-4">About Our Mining Machines</h1>
+        <p class="text-center">
+          We offer the latest and most powerful mining machines to help you stay
+          ahead in the cryptocurrency mining industry. Our machines are designed
+          for efficiency, reliability, and performance.
+        </p>
+      </div>
     </section>
 
-    <!-- Products Section -->
-<section id="products" class="py-5 bg-light">
-    <h2 class="text-center mb-4">Our Products</h2>
-    <div class="container">
+    <!-- Miners Section -->
+    <section id="products" class="py-5 bg-light">
+      <h2 class="text-center mb-4">Our Products</h2>
+      <div class="container">
         <div class="row">
-            <!-- Product 1 -->
-            <div class="col-md-4">
-                <article class="card product-card text-center">
-                    <img src="pictures/MinerA.jpg" class="card-img-top" alt="Miner A1">
-                    <h3 class="card-title">Miner A1</h3>
-                    <p class="card-text">$3000</p>
-                    <a href="html/Miner_A1.html" class="btn btn-primary">Buy Now</a>
-                </article>
-            </div>
-            <!-- Product 2 -->
-            <div class="col-md-4">
-                <article class="card product-card text-center">
-                    <img src="pictures/MinerB.png" class="card-img-top" alt="Miner B2">
-                    <h3 class="card-title">Miner B2</h3>
-                    <p class="card-text">$5000</p>
-                    <a href="html/Miner_B2.html" class="btn btn-primary">Buy Now</a>
-                </article>
-            </div>
-            <!-- Product 3 -->
-            <div class="col-md-4">
-                <article class="card product-card text-center">
-                    <img src="pictures/MinerC.png" class="card-img-top" alt="Miner C3">
-                    <h3 class="card-title">Miner C3</h3>
-                    <p class="card-text">$7000</p>
-                    <a href="html/Miner_C3.html" class="btn btn-primary">Buy Now</a>
-                </article>
-            </div>
+          <!-- Miner 1 -->
+          <div class="col-md-4">
+            <article class="card product-card text-center">
+              <img
+                src="pictures/MinerA.jpg"
+                class="card-img-top"
+                alt="Miner A1"
+              />
+              <h3 class="card-title">Miner A1</h3>
+              <p class="card-text">$3000</p>
+              <a href="html/Miner_A1.html" class="btn btn-primary">Buy Now</a>
+            </article>
+          </div>
+          <!-- Miner 2 -->
+          <div class="col-md-4">
+            <article class="card product-card text-center">
+              <img
+                src="pictures/MinerB.png"
+                class="card-img-top"
+                alt="Miner B2"
+              />
+              <h3 class="card-title">Miner B2</h3>
+              <p class="card-text">$5000</p>
+              <a href="html/Miner_B2.html" class="btn btn-primary">Buy Now</a>
+            </article>
+          </div>
+          <!-- Miner 3 -->
+          <div class="col-md-4">
+            <article class="card product-card text-center">
+              <img
+                src="pictures/MinerC.png"
+                class="card-img-top"
+                alt="Miner C3"
+              />
+              <h3 class="card-title">Miner C3</h3>
+              <p class="card-text">$7000</p>
+              <a href="html/Miner_C3.html" class="btn btn-primary">Buy Now</a>
+            </article>
+          </div>
         </div>
-    </div>
-</section>
+      </div>
+    </section>
 
     <!-- Contact Section -->
-<section id="contact" class="py-5">
-    <h2 class="text-center mb-4">Contact Us</h2>
-    <form class="container">
+    <section id="contact" class="py-5">
+      <h2 class="text-center mb-4">Contact Us</h2>
+      <form class="container">
         <label for="name" class="form-label">Your Name</label>
-        <input type="text" class="form-control mb-3" id="name" placeholder="Enter your name">
+        <input
+          type="text"
+          class="form-control mb-3"
+          id="name"
+          placeholder="Enter your name"
+        />
 
         <label for="email" class="form-label">Your Email</label>
-        <input type="email" class="form-control mb-3" id="email" placeholder="Enter your email">
+        <input
+          type="email"
+          class="form-control mb-3"
+          id="email"
+          placeholder="Enter your email"
+        />
 
         <label for="message" class="form-label">Message</label>
-        <textarea class="form-control mb-3" id="message" rows="5" placeholder="Enter your message"></textarea>
+        <textarea
+          class="form-control mb-3"
+          id="message"
+          rows="5"
+          placeholder="Enter your message"
+        ></textarea>
 
         <button type="submit" class="btn btn-primary">Send Message</button>
-    </form>
-</section>
-
+      </form>
+    </section>
 
     <!-- Footer -->
     <footer class="footer">
-        <p>© 2025 Miner Store. All rights reserved.</p>
-        <p> Shuhan Handmade 🤔</p>
+      <p>© 2025 Miner Store. All rights reserved.</p>
+      <p>Shuhan Handmade 🤔</p>
     </footer>
 
     <!--JS -->
     <script type="module" src="js/scrollToProducts.js"></script>
-     <!--Bootstrap JS -->
+    <!--Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-</body>
+  </body>
 </html>
-
-

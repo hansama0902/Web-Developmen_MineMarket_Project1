@@ -1,4 +1,8 @@
-export function setupQuantityControl(decreaseButtonId, increaseButtonId, quantityInputId) {
+export function setupQuantityControl(
+  decreaseButtonId,
+  increaseButtonId,
+  quantityInputId,
+) {
   const decreaseButton = document.getElementById(decreaseButtonId);
   const increaseButton = document.getElementById(increaseButtonId);
   const quantityInput = document.getElementById(quantityInputId);
