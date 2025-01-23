@@ -95,5 +95,6 @@ Web-Developmen_MineMarket_Project1/
 
 ### View the project
 Visit the live project at: [MineMarket Project](https://hansama0902.github.io/Web-Developmen_MineMarket_Project1/index.html)
-
+## License
+This project is licensed under the **MIT License**.
 
