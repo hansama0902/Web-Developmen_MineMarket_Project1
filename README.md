@@ -44,6 +44,7 @@ Web-Developmen_MineMarket_Project1/
 ├── index.html
 ├── package.json
 ├── README.md
+```
 # 1. Clone the Repository
 git clone https://github.com/hansama0902/Web-Developmen_MineMarket_Project1.git
 
