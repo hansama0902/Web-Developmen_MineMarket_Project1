@@ -44,19 +44,3 @@ Web-Developmen_MineMarket_Project1/
 ├── index.html
 ├── package.json
 ├── README.md
-```bash
-# 1. Clone the Repository
-git clone https://github.com/hansama0902/Web-Developmen_MineMarket_Project1.git
-
-# 2. Navigate to the Project Folder
-cd Web-Developmen_MineMarket_Project1
-
-# 3. Install Dependencies (if applicable)
-npm install
-
-# 4. Open `index.html` in Browser
-# Launch the website using a live server or by opening `index.html` directly.
-
-# 5. View Hosted Project
-# Visit the project page at:
-# https://hansama0902.github.io/Web-Developmen_MineMarket_Project1/index.html
