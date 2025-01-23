@@ -13,7 +13,8 @@
    - Share insights into the blockchain industry with a focus on mining machines, drawing from my prior work experience.
 
 ## Project Screenshot
-![Project Thumbnail](https://raw.githubusercontent.com/hansama0902/Web-Developmen_MineMarket_Project1/main/pictures/Project%20Thumbnail%20.png)
+## Project Screenshot
+![Project Screenshot](https://raw.githubusercontent.com/hansama0902/Web-Developmen_MineMarket_Project1/main/pictures/Project%20Screenshot.png)
 
 ---
 
