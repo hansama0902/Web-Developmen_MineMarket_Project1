@@ -17,6 +17,16 @@
 
 ---
 
+## Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **GitHub Pages**
+- **Bootstrap 5**
+- **ESLint6 & Prettier for Code Quality**
+
+---
+
 ## Instructions to Build and Run the Project
 
 ### Project Directory Structure
@@ -83,6 +93,7 @@ Web-Developmen_MineMarket_Project1/
 
 ---
 
-### View the Project
+### View the project
 Visit the live project at: [MineMarket Project](https://hansama0902.github.io/Web-Developmen_MineMarket_Project1/index.html)
+
 
