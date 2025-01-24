@@ -1,4 +1,4 @@
-# Web Development MineMarket Project
+# Web Development Miner Store Homepage Project
 
 ## Author
 
