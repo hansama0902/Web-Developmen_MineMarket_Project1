@@ -142,7 +142,7 @@ html {
 }
 ```
 Issue Not Resolved  
-2. How to introduce Bitcoin Operation to someone outside the industry in simple terms
+2. How to introduce Bitcoin Operation to someone outside the industry in simple terms using ChatGPT 4o
 ```bash
 1. What is Bitcoin?
 2. How does Bitcoin work?
