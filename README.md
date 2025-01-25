@@ -123,8 +123,11 @@ Visit the live project at: [MineMarket Project](https://hansama0902.github.io/We
    Images are used to describe Canaan creative devices.
 
 3. **[WhatsMiner Official Website](https://www.whatsminer.com/)**  
-   Images are used to illustrate WhatsMiner mining equipment.  
-
+   Images are used to illustrate WhatsMiner mining equipment.
+##  Creative addition  
+1.  "+" and "-" buttons for adjusting the quantity of machines.  
+2.  Hero Section -- Clicking the image redirects to the Products section.  
+3. Shuhan Handmade 🤔 at footer.  
 ## License
 
 This project is licensed under the **MIT License**.
