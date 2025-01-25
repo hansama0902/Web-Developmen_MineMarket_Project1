@@ -113,7 +113,17 @@ Visit the live project at: [MineMarket Project](https://hansama0902.github.io/We
 
 [Video](https://youtu.be/-VIRZhJZJcA)  
 [Design Doc](https://docs.google.com/document/d/1sj8mXe9F7O5z7Av_7abQxXlFllzEUQj8a6i96UcBgH4/edit?usp=sharing)  
-[Slides](https://docs.google.com/presentation/d/1M8-rw_8FNOXsD08S19G1zejjg_alLBsCtnAvHSIhPYI/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1M8-rw_8FNOXsD08S19G1zejjg_alLBsCtnAvHSIhPYI/edit?usp=sharing)  
+## Image Sources 
+
+1. **[Bitmain Official Website](https://www.bitmain.com/)**  
+   Images are used to showcase Bitmain products.
+
+2. **[Canaan Creative Official Website](https://www.canaan-creative.com/)**  
+   Images are used to describe Canaan creative devices.
+
+3. **[WhatsMiner Official Website](https://www.whatsminer.com/)**  
+   Images are used to illustrate WhatsMiner mining equipment.  
 
 ## License
 
