@@ -132,13 +132,14 @@ Visit the live project at: [MineMarket Project](https://hansama0902.github.io/We
 Fixing White Border Issue in ChatGPT 4o  
 When reducing the size of the webpage, a white border may appear around the `Nav` section or `Hero` section. To address this issue, use the following CSS styles:  
 
-```css
+```bash
+css
 /* Reset all default margins and paddings */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-} ```  
+} ```
 Issue Not Resolved  
 ## License
 
