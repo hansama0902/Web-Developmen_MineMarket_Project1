@@ -129,7 +129,7 @@ Visit the live project at: [MineMarket Project](https://hansama0902.github.io/We
 2.  Hero Section -- Clicking the image redirects to the Products section.  
 3. Shuhan Handmade 🤔 at footer.
 ## Usage of GenAI
-Fixing White Border Issue in ChatGPT 4o  
+Fixing White Border Issue of home page using ChatGPT 4o  
 When reducing the size of the webpage, a white border may appear around the `Nav` section or `Hero` section. To address this issue, use the following CSS styles:  
 
 ```bash
