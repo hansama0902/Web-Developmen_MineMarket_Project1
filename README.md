@@ -129,7 +129,7 @@ Visit the live project at: [MineMarket Project](https://hansama0902.github.io/We
 2.  Hero Section -- Clicking the image redirects to the Products section.  
 3. Shuhan Handmade 🤔 at footer.
 ## Usage of GenAI
-Fixing White Border Issue of home page using ChatGPT 4o  
+1. Fixing White Border Issue of home page using ChatGPT 4o  
 When reducing the size of the webpage, a white border may appear around the `Nav` section or `Hero` section.   
 To address this issue, use the following CSS styles:  
 ```bash
@@ -142,6 +142,23 @@ html {
 }
 ```
 Issue Not Resolved  
+2. How to introduce Bitcoin Operation to someone outside the industry in simple terms
+```bash
+1. What is Bitcoin?
+2. How does Bitcoin work?
+Bitcoin operates in a few simple steps:
+(1) The Blockchain: Bitcoin's Record-Keeping System
+(2) Transactions
+Sending Bitcoin is like sending a digital message, but the message is Bitcoin.
+(3) Mining
+Bitcoin relies on a process called "mining" to verify transactions and secure the network.
+3. Why is Bitcoin Important?
+Bitcoin has some unique features:
+Decentralized,
+Secure,
+Globa.
+```  
+The explanation was too technical and not suitable for inclusion in my document or video. So, I simply shared a brief overview of my background and did not use it.  
 ## License
 
 This project is licensed under the **MIT License**.
