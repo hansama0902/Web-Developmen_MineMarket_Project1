@@ -134,8 +134,8 @@ When reducing the size of the webpage, a white border may appear around the `Nav
 
 ```bash
 css
-/* Reset all default margins and paddings */
-* {
+body,
+html {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
