@@ -37,7 +37,7 @@
 ### Project Directory Structure
 
 ```plaintext
-Web-Developmen_MineMarket_Project1/
+Web-Developmen_Miner-Store-Homepage_Project1/
 │
 ├── css/
 │   ├── style_pa.css
@@ -70,7 +70,7 @@ Web-Developmen_MineMarket_Project1/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/hansama0902/Web-Developmen_MineMarket_Project1.git
+   git clone https://github.com/hansama0902/Web-Developmen_Miner-Store-Homepage_Project1.git
    ```
 
 2. **Navigate to the Project Directory**
