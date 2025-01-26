@@ -107,7 +107,7 @@ Web-Developmen_Miner-Store-Homepage_Project1/
 
 ### View the project
 
-Visit the live project at: [MineMarket Project](https://hansama0902.github.io/Web-Developmen_Miner-Store-Homepage_Project1/)
+Visit the live project at: [MineStore Project](https://hansama0902.github.io/Web-Developmen_Miner-Store-Homepage_Project1/)
 
 ## Resourse
 
