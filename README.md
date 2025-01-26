@@ -113,8 +113,9 @@ Visit the live project at: [MineMarket Project](https://hansama0902.github.io/We
 
 1.[Video](https://youtu.be/-VIRZhJZJcA)  
 2.[Design Doc](https://docs.google.com/document/d/1sj8mXe9F7O5z7Av_7abQxXlFllzEUQj8a6i96UcBgH4/edit?usp=sharing)  
-3.[Slides](https://docs.google.com/presentation/d/1M8-rw_8FNOXsD08S19G1zejjg_alLBsCtnAvHSIhPYI/edit?usp=sharing)  
-## Image Sources 
+3.[Slides](https://docs.google.com/presentation/d/1M8-rw_8FNOXsD08S19G1zejjg_alLBsCtnAvHSIhPYI/edit?usp=sharing)
+
+## Image Sources
 
 1. **[Bitmain Official Website](https://www.bitmain.com/)**  
    Images are used to showcase Bitmain products.
@@ -124,14 +125,19 @@ Visit the live project at: [MineMarket Project](https://hansama0902.github.io/We
 
 3. **[WhatsMiner Official Website](https://www.whatsminer.com/)**  
    Images are used to illustrate WhatsMiner mining equipment.
-##  Creative addition  
-1.  "+" and "-" buttons for adjusting the quantity of machines.  
-2.  Hero Section -- Clicking the image redirects to the Products section.  
-3. Shuhan Handmade 🤔 at footer.
+
+## Creative addition
+
+1.  "+" and "-" buttons for adjusting the quantity of machines.
+2.  Hero Section -- Clicking the image redirects to the Products section.
+3.  Shuhan Handmade 🤔 at footer.
+
 ## Usage of GenAI
+
 1. Fixing White Border Issue of home page using ChatGPT 4o  
-When reducing the size of the webpage, a white border may appear around the `Nav` section or `Hero` section.   
-To address this issue, use the following CSS styles:  
+   When reducing the size of the webpage, a white border may appear around the `Nav` section or `Hero` section.  
+   To address this issue, use the following CSS styles:
+
 ```bash
 
 body,
@@ -141,8 +147,10 @@ html {
   box-sizing: border-box;
 }
 ```
+
 Issue Not Resolved  
 2. How to introduce Bitcoin Operation to someone outside the industry in simple terms using ChatGPT 4o
+
 ```bash
 1. What is Bitcoin?
 2. How does Bitcoin work?
@@ -157,8 +165,10 @@ Bitcoin has some unique features:
 Decentralized,
 Secure,
 Globa.
-```  
-The explanation was too technical and not suitable for inclusion in my document or video. So, I simply shared a brief overview of my background and did not use it.  
+```
+
+The explanation was too technical and not suitable for inclusion in my document or video. So, I simply shared a brief overview of my background and did not use it.
+
 ## License
 
 This project is licensed under the **MIT License**.
